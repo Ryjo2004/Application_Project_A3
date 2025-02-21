@@ -8038,11 +8038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryjom\\OneDrive\\Desktop\\Sem 3\\Bpassignment\\Bpassignment.csproj",
+      "projectUniqueName": "C:\\Users\\ryjom\\OneDrive\\Desktop\\Sem3\\Bpassignment\\Bpassignment.csproj",
       "projectName": "Bpassignment",
-      "projectPath": "C:\\Users\\ryjom\\OneDrive\\Desktop\\Sem 3\\Bpassignment\\Bpassignment.csproj",
+      "projectPath": "C:\\Users\\ryjom\\OneDrive\\Desktop\\Sem3\\Bpassignment\\Bpassignment.csproj",
       "packagesPath": "C:\\Users\\ryjom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryjom\\OneDrive\\Desktop\\Sem 3\\Bpassignment\\obj\\",
+      "outputPath": "C:\\Users\\ryjom\\OneDrive\\Desktop\\Sem3\\Bpassignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
